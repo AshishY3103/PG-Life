@@ -1,0 +1,14 @@
+*{
+    border: solid 1px blue;
+}
+div{ 
+    border: solid 2px red;
+    margin:5px;
+    padding:5px; 
+}
+div>div{
+    border: dotted 2px red;
+    margin:5px;
+    padding:5px;
+
+}
